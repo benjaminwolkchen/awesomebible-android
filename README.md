@@ -5,5 +5,5 @@ Hier findest du A) den Code der App und B) du kannst Fehler melden und neue Funk
 
 ## Links
 - [Bibel4000site](https://bibel4000site.wordpress.com/)
-- [APK's](https://drive.google.com/drive/folders/1lI_nHUizp3SknouOb_Tm5JuTJ68p5sU1?usp=sharing)
+- [APK's](https://github.com/benjaminwolkchen/bibel4000site-app/releases/latest)
 - [Kontakt](https://bibel4000site.wordpress.com/kontakt/)

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054137774189",
+    "firebase_url": "https://bibel4000site-notif041221.firebaseio.com",
+    "project_id": "bibel4000site-notif041221",
+    "storage_bucket": "bibel4000site-notif041221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054137774189:android:1fbfd7dd853fae70",
+        "android_client_info": {
+          "package_name": "com.wp.bibel4000site"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054137774189-v4nqv50j9rk74ebjdkf5m169mr629ijd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wp.bibel4000site",
+            "certificate_hash": "f227d789e9bd3fb34342a78e59326c7ddc1a618f"
+          }
+        },
+        {
+          "client_id": "1054137774189-kbmrb0egkquupeass18a8dg6o5j5nmvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBttI1YXBrSZ8U9Lu4yUvBJ_NbpDQt9WYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054137774189-kbmrb0egkquupeass18a8dg6o5j5nmvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

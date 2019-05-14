@@ -10,4 +10,5 @@ Du wirst bei jeder neuen Version die zum Download bereit steht in der App benach
 - [Bibel4000site](https://bibel4000site.wordpress.com/)
 - [APK's](https://github.com/benjaminwolkchen/bibel4000site-app/releases/latest)
 - [Changelog](https://github.com/benjaminwolkchen/bibel4000site-app/blob/master/CHANGELOG.md)
+- [Lizenz](https://github.com/benjaminwolkchen/bibel4000site-app/blob/master/LICENSE)
 - [Kontakt](https://bibel4000site.wordpress.com/kontakt/)
